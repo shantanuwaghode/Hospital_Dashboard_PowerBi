@@ -7,3 +7,5 @@
 4. Overall Feedback for Doctor
 5. Diagnosis wise Stats
 6. Billing vs Insurance Stats
+
+All the above requirements are satisfied in the Dashboard
